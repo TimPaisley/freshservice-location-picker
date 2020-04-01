@@ -1,0 +1,49 @@
+.fw-widget-wrapper {
+  padding: 10px;
+}
+
+#map {
+  height: 300px;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+a, button {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border: 1px solid #d3dbda;
+  border-radius: 0;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+a, button:hover {
+  background-color: #eee;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 0;
+  padding: 0.5rem 1rem;
+}
+
+table {
+  width: 100%;
+}
+
+#map-container {
+  position: relative;
+}
+
+#map-container img {
+  width: 50px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -100%);
+  pointer-events: none;
+}

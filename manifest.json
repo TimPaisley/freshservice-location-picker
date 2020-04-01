@@ -1,0 +1,23 @@
+{
+  "platform-version": "2.0",
+  "product": {
+    "freshservice": {
+      "location": {
+        "new_ticket_sidebar": {
+          "url": "geolocation.html",
+          "icon": "icon.svg"
+        },
+        "ticket_sidebar": {
+          "url": "geolocation.html",
+          "icon": "icon.svg"
+        },
+        "ticket_background": {
+          "url": "geolocation.html"
+        },
+        "new_ticket_background": {
+          "url": "geolocation.html"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="100px" viewBox="0 0 500 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Location-Picker" font-family="Arial-BoldMT, Arial" font-size="48" font-weight="bold" fill="#4A4A4A">
+            <tspan x="98.2773438" y="51">Location Picker</tspan>
+        </text>
+        <text id="for-Freshservice" font-family="ArialMT, Arial" font-size="28" font-weight="normal" fill="#4A4A4A">
+            <tspan x="101.141602" y="86">for Freshservice</tspan>
+        </text>
+        <path d="M50,89.8958253 C68.6666667,65.2131774 78,47.7750641 78,37.5814855 C78,22.2911176 65.463973,9.89582527 50,9.89582527 C34.536027,9.89582527 22,22.2911176 22,37.5814855 C22,47.7750641 31.3333333,65.2131774 50,89.8958253 Z" id="Oval" stroke="#4A4A4A" stroke-width="5" fill="#FFCC00"></path>
+    </g>
+</svg>
